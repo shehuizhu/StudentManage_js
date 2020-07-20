@@ -53,6 +53,7 @@ dd {
 
 .leftContent dd {
     padding: 0px 20px;
+    cursor: pointer;
 }
 
 .leftContent dd:hover {
@@ -98,6 +99,7 @@ dd {
     outline: none;
     border: none;
     padding: 5px 10px;
+    cursor: pointer;
 }
 
 .rightContent table .edit {
@@ -133,6 +135,7 @@ dd {
     background-color: #fff;
     padding: 5px 10px;
     margin: 10px 5px;
+    cursor: pointer;
     display: none;
 }
 
